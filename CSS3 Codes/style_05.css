@@ -1,0 +1,29 @@
+body{
+    background-color: powderblue;
+}
+p{
+    color: green;
+    font-size: 20px;
+}
+h1{
+    color: red;
+    text-align: left;
+    font-size: 16pt;
+}
+.subtext{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0000ff;
+    font-size: 14px;
+}
+a:link{
+    color: #FF0000;
+}
+a:visited{
+    color: #FF00FF;
+}
+a:hover{
+    color: #00FF00;
+}
+a:active{
+    color: #0000FF;
+}
